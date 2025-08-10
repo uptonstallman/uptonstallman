@@ -1,4 +1,4 @@
-# Hi, I'm [Upton Stallman] 👋
+# Hi, I'm Upton Stallman 👋
 
 I’m passionate about creating technology that empowers everyone — from beginners to experts — to learn, build, and innovate.
 
