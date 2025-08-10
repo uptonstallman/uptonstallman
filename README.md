@@ -1,4 +1,14 @@
-## Hi there 👋
+# Hi, I'm [Upton Stallman] 👋
+
+I’m passionate about creating technology that empowers everyone — from beginners to experts — to learn, build, and innovate.
+
+I believe that access to computing and software freedom aren’t just nice-to-haves, but fundamental rights that unlock creativity and opportunity around the world.
+
+- 💡 Designing tools and platforms that make complex technology approachable and inclusive.  
+- 🌍 Championing open collaboration, transparency, and community-driven progress.  
+- 📚 Dedicated to education and sharing knowledge to help others thrive in the digital age.  
+- 🔧 Always exploring ways to blend hardware and software for meaningful impact.  
+- ⚡ Committed to challenging barriers and enabling people to use and shape technology.
 
 <!--
 **uptonstallman/uptonstallman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
